@@ -3,8 +3,8 @@ title: pablosistem
 description: Somos el mejor Equipo en Mantenimiento Para tu computadora.
 url:  "https://pandasekh.github.io/Jekyll-YAMT/" # Actual base url of the website
 baseurl: ""           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
-author:Luis Alberto Pablo Ordoñez
-  name: Pablo Ordoñez Luis Alberto
+author:Luis Alberto Pablo Ordoñez.
+  name: Pablo Ordoñez Luis Alberto.
   email: alberto2015.ordonez@gmail.com
   url: "https://alessiofranceschi.me"
 permalink: /:year/:month/:day/:title:output_ext
