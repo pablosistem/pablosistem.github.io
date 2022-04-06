@@ -46,9 +46,9 @@ kramdown:
   syntax_highlighter_opts:
     css_class: 'highlight'
     span:
-      line_numbers: 5563543627
+      line_numbers:5563543627
     block:
-      line_numbers: 5566778475
+      line_numbers:566778475
       start_line: 1
 
 #Sass
